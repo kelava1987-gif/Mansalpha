@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "title": "MansAlpha — naslovnica"
+    },
+    {
+      "path": "/pregled",
+      "title": "Urednički pregled"
+    },
+    {
+      "path": "/knjiznica",
+      "title": "Knjižnica sadržaja"
+    },
+    {
+      "path": "/clanci",
+      "title": "Članci"
+    },
+    {
+      "path": "/prezentacije",
+      "title": "Prezentacije"
+    },
+    {
+      "path": "/videozapisi",
+      "title": "Videozapisi"
+    },
+    {
+      "path": "/izvori",
+      "title": "Izvori i literatura"
+    },
+    {
+      "path": "/dogadaji",
+      "title": "Događaji"
+    },
+    {
+      "path": "/ideje",
+      "title": "Ideje"
+    },
+    {
+      "path": "/predavanje",
+      "title": "Prvo predavanje"
+    },
+    {
+      "path": "/predlosci",
+      "title": "Predlošci"
+    },
+    {
+      "path": "/postavke",
+      "title": "Postavke i načela"
+    }
+  ]
+}
